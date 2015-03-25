@@ -63,17 +63,20 @@
                         <center div id="main">
 				<div id="content">                   
             <ul class="sectionList">
-            	<li class="first">
-               	<img class="center" src="images/trabajando.gif" width="604" alt="" /><h2>Estamos actualizando</h2></a>
+            <li class="first">
+						<a href="gomorro.html" ><img class="center" src="images/gomorro/gomorro.jpg" width="250" alt="" /> <h2>Nostraxladamus presentar&aacute;n el ma&ntilde;oret</h2>           
+            </li>
+	         <li class="first">
+               	<a href="olivier.html"><img class="center" src="images/olivier/olivier.jpg" width="240" alt="" /><h2>Olivier</h2></a>
+            </li>
+					
+				<li class="first">
+               	<a href="mariloli.html"><img class="center" src="images/mariloli/mariloli1.jpg" width="250" alt="" /><h2>Mariloli Construcciones S.A.</h2></a>
+             </li>
+                       <li class="first">
+	               <a href="nacho.html"><img class="center" src="images/nacho/nacho.jpg" width="320" alt="" /><h2>Inercio Centripeto</h2></a>
                </li>
-<!--					
-					<li class="first">
-               	<a href="danileon.html"><img class="center" src="images/danileon.jpeg" width="250" alt="" /><h2>O Man Oh Man</h2></a>
-               </li>
-               <li class="first">
-	               <a href="uccelini.html"><img class="center" src="images/uccelini.jpg" width="320" alt="" /><h2>Uccelini</h2></a>
-               </li>
-	            <li class="first">
+<!--	            <li class="first">
     	           <a href="enlanada.html"><img class="center" src="images/enlanada.jpg" width="280" alt="" /><h2>Cia. Enlanada</h2></a>
                </li>
       	      <li class="first">
@@ -97,6 +100,7 @@
                <li class="first">
                	<a href="titanicas.html"><img class="center" src="images/titanicas.jpg" width="300" alt="" /><h2>Tit&aacute;nicas</h2></a>
                </li>
+               
     	    		<br>
                	<h2>Concierto</h2>
                <br>
@@ -106,7 +110,10 @@
             </ul>
            </div>
 			</div>
--->                        
+-->            
+			 <li class="first">
+               	<img class="center" src="images/trabajando.gif" width="604" alt="" /><h2>Estoy ensayando, ahora vuelvo</h2></a>
+          </li>            
           <center div id="main">
 				<div id="content">
 					<div id="box1">
