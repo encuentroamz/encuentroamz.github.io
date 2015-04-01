@@ -76,10 +76,10 @@
                        <li class="first">
 	               <a href="nacho.html"><img class="center" src="images/nacho/nacho.jpg" width="320" alt="" /><h2>Inercio Centripeto</h2></a>
                </li>
-<!--	            <li class="first">
-    	           <a href="enlanada.html"><img class="center" src="images/enlanada.jpg" width="280" alt="" /><h2>Cia. Enlanada</h2></a>
+	            <li class="first">
+    	           <a href="rubenik.html"><img class="center" src="images/rubenik/rubenik.jpg" width="280" alt="" /><h2>Rubenik</h2></a>
                </li>
-      	      <li class="first">
+<!--      	      <li class="first">
          		   <a href="aitor.html"><img class="center" src="images/aitor.jpg" width="350" alt="" /><h2>Su e Gi&uacute;</h2></a>
                </li>
 					<li class="first">
@@ -112,7 +112,7 @@
 			</div>
 -->            
 			 <li class="first">
-               	<img class="center" src="images/trabajando.gif" width="604" alt="" /><h2>Estoy ensayando, ahora vuelvo</h2></a>
+               	<img class="center" src="images/trabajando.gif" width="604" alt="" /><h2>Vamos mandarme los que faltan y as&iacute; voy actualizando</h2></a>
           </li>            
           <center div id="main">
 				<div id="content">

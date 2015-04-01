@@ -61,64 +61,21 @@
 			</div>
                         
                         <center div id="main">
-				<div id="content">                   
-            <ul class="sectionList">
-            <li class="first">
-						<a href="gomorro.html" ><img class="center" src="images/gomorro/gomorro.jpg" width="250" alt="" /> <h2>Nostraxladamus presentar&aacute;n el ma&ntilde;oret</h2>           
-            </li>
-	         <li class="first">
-               	<a href="olivier.html"><img class="center" src="images/olivier/olivier.jpg" width="240" alt="" /><h2>Olivier</h2></a>
-            </li>
-					
-				<li class="first">
-               	<a href="mariloli.html"><img class="center" src="images/mariloli/mariloli1.jpg" width="250" alt="" /><h2>Mariloli Construcciones S.A.</h2></a>
-             </li>
-                       <li class="first">
-	               <a href="nacho.html"><img class="center" src="images/nacho/nacho.jpg" width="320" alt="" /><h2>Inercio Centripeto</h2></a>
-               </li>
-	            <li class="first">
-    	           <a href="rubenik.html"><img class="center" src="images/rubenik/rubenik.jpg" width="280" alt="" /><h2>Rubenik</h2></a>
-               </li>
-<!--      	      <li class="first">
-         		   <a href="aitor.html"><img class="center" src="images/aitor.jpg" width="350" alt="" /><h2>Su e Gi&uacute;</h2></a>
-               </li>
-					<li class="first">
-               	<a href="pinky.html"><img class="center" src="images/pinky.jpg" width="350" alt="" /><h2>Pinky</h2></a>
-               </li>
-               <li class="first">
-               	<a href="richi.html"><img class="center" src="images/richi.png" width="280" alt="" /><h2>Richi Di Chous</h2></a>
-               </li>
-               <li class="first">
-               	<a href="comeon.html"><img class="center" src="images/comeon.jpg" width="290" alt="" /><h2>ComeOn</h2></a>
-               </li>
-					<li class="first">
-               	<a href="darlanruben.html"><img class="center" src="images/darlanruben.jpg" width="350" alt="" /><h2>Darlan y Rub&eacute;n</h2></a>
-               </li>
-               <li class="first">
-               	<a href="delibreando.html"><img class="center" src="images/delibreando.jpg" width="280" alt="" /><h2>DeLibreAndO</h2></a>
-               </li>
-               <li class="first">
-               	<a href="titanicas.html"><img class="center" src="images/titanicas.jpg" width="300" alt="" /><h2>Tit&aacute;nicas</h2></a>
-               </li>
-               
-    	    		<br>
-               	<h2>Concierto</h2>
-               <br>
-               <li class="first">
-               	<a href="tordogordo.html"><img class="center" src="images/tordogordo.png" width="380" alt="" /><h2>Tordogordo</h2></a>
-               </li>
-            </ul>
-           </div>
+				<div id="content">
+                                        <left div id="main"><h2>Olivier</h2>
+                                        <img class="center" src="images/olivier/olivier.jpg" width="480" alt="" />
+                                        <h3>Umbrell-hats</h3>
+                                        <p>Vovler a casa después de trabajar siempre es un momento agradable en el que la mente se relaja y se cambia la percepci&oacute;n del entorno. Eso lleva a nuestro simp&aacute;tico personaje a dar rienda suelta a su imaginaci&oacute;n y sus ganas de jugar con objetos tan comunes como paraguas y sombreros</p>
+                                
+                                        <br class="clear" />
+				</div>
 			</div>
--->            
-			 <li class="first">
-               	<img class="center" src="images/trabajando.gif" width="604" alt="" /><h2>Vamos mandarme los que faltan y as&iacute; voy actualizando</h2></a>
-          </li>            
-          <center div id="main">
+                        
+                        <center div id="main">
 				<div id="content">
 					<div id="box1">
 						<!-- Primary Wide Blog Post 3 -->
-						<div class="blogpost primary_wide3">
+						<center div class="blogpost primary_wide3">
                                                         <p><b>Colaboran:</b></p>
 							<a href="http://camisetasconectadas.com" target="_blank"><img class="left" src="images/camisetasconectadas.jpg" width="250px" alt="" /></a>
                                                         <a href="http://www.juegosmalabares.com" target="_blank"><img class="left" src="images/juegosmalabares.png" width="250px" alt="" /></a>
