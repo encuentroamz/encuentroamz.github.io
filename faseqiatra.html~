@@ -62,9 +62,12 @@
                         
                         <center div id="main">
 				<div id="content">
-            <left div id="main"><h2>Diego</h2>
-            <img class="center" src="images/diego/diego2.jpg" width="480" alt="" />
-            <p>Diego nos trae una peque&ntilde;a pieza art&iacute;stica creada en la escuela superior de artes circenses de Bruselas, donde veremos como se han forjado la t&eacute;cnica, el dominio de los straps y todo hilado con danza, obteniendo como resultado una pieza que es puro arte en movimiento.</p>
+            <left div id="main"><h2>Faseqiatra</h2>
+            <img class="center" src="images/faseqiatra/faseqiatra2.jpg" width="480" alt="" />
+            <left div id="main"><h2>MACHINES&amp;LOLLIPOPS</h2>
+            <p>Un viaje a trav&eacute;s de los laberintos mentales de FaseQiatra. Creando un espacio on&iacute;rico, donde la realidad pierde sus l&iacute;mites, se comparte, por un lapso de tiempo, el mundo como lo vemos, como lo sufrimos y como lo disfrutamos.</p>
+
+				<p>La voz, el cuerpo, los malabares y la danza, son las herramientas con las que los m&uacute;ltiples personajes expresan lo m&aacute;s desagradable y bonito de la mente humana.</p>
                                 
             <br class="clear" />
 				</div>
