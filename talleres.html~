@@ -5,6 +5,7 @@
 	Images by Image Base http://imagebase.davidniblack.com/
 	Released under the Creative Commons Attribution 3.0 License.
 -->
+
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -13,6 +14,13 @@
 		<title>Encuentro malabaristas de Zaragoza</title>
 		<link rel="stylesheet" type="text/css" href="style.css" />
 	</head>
+   <style>
+   p.titulo{text-indent:30px;}
+   p.docente{text-indent:30px;}
+   p.nivel{text-indent:30px;}
+   p.horario{text-indent:30px;}
+   p.lugar{text-indent:30px;}
+   </style>
 	<body>
 		<div id="outer">
 			<div id="header">
@@ -60,35 +68,42 @@
                                 </div>
 			</div>
                         
-                        <center div id="main">
-				<div id="content">                   
-            <h2>Talleres</h2>
-            <p>&iexcl;&iexcl;Si impartes un taller el encuentro de Utebo 2015 te sale gratis!!</p>
+            <left div id="main">
+				<div id="content" class="left">                   
+            <h2>Talleres Utebo 2015</h2>
 
-<p>&iexcl;&iexcl;&iexcl;Saludos compa&ntilde;eros cirqueros!!! Desde la AMZ nos ponemos en contacto con todas las personas que vayan a asistir al encuentro de malabaristas de Utebo 2015, para pedir vuestra colaboraci&oacute;n en la impartici&oacute;n de talleres. Todo el mundo quiere tener un bichaco del que aprender, y todo bichaco quiere impartir sus vastos conocimientos para hacer de este mundo un lugar mejor. As&iacute; que si eres un bichaco con ganas de impartir ese taller que cambiar&aacute; el mundo del circo tal y como lo conocemos, ponte en contacto con nosotros mand&aacute;ndonos una peque&ntilde;a memoria del taller antes del d&iacute;a 14 de este mes. Si vuestro taller sale seleccionado por el consejo de sabios, se os comunicar&aacute; lo antes posible junto con el resto de informaci&oacute;n necesaria para el desarrollo del taller, y el encuentro os saldr&aacute; totalmente gratis. Todas aquellas propuestas descartadas o fuera de plazo, ser&aacute;n igualmente bienvenidas y realizables, con la salvedad de que &eacute;stas se gestionar&aacute;n durante el mismo encuentro y no ser&aacute;n retribuidas con una entrada gratuita, pero contribuiremos con un peque&ntilde;o obsequio a los docentes, y nuestro eterno cari&ntilde;o y gratitud, que eso, s&iacute; que no tiene precio. Los interesados en impartir talleres pod&eacute;is poneros en contacto con la organizaci&oacute;n a trav&eacute;s del correo malabaristaszgz@gmail.com para asignaros una hora y espacio para el taller, as&iacute; como gestionar materiales o necesidades espec&iacute;ficas si las hubiese. &iexcl;Un saludo a todos y mucho circo!</p>
-            	<img src="images/trabajando.gif" width="640px" alt="" /><h2> Es trucazo me gusta</h2>
-<!--                                            <img src="images/talleres2.jpg" width="440px" alt=""/><br><br>
+
+<h1><p>S&aacute;bado por la ma&ntilde;ana</p></h1>
+<img src="images/talleres2.jpg" width="440px" alt=""/><br><br>
     
 						    <h2>Horarios</h2>
                                         
-						    <h3>Viernes</h3>
+						    <h3>S&aacute;bado</h3>
                                         
-                                        <b>Malabares: Jorge</b><br>
-                                        A partir de las 18:30 horas, Espacio de entrenamiento/calentamiento<br><br>
+                                        <b>Cariocas: Mike</b><br>
+                                        Horario: 11:00 a 13:00 horas, nivel intermedio, en el pabell&oacute;n<br><br>
 
-                                        <h3>S&#225;bado</h3>
+                                                                                
+                                        <b>Telas a&eacute;reas: Mar&iacute;a Cavagnero</b><br>
+                                        Horario: 12:00-14:00 horas,nivel intermedio, en el pabell&oacute;n<br><br>
                                         
-                                        <b>Cariocas: Maik</b><br>
-                                        11-13:00 horas, Sala segunda planta<br><br>
-                                        <b>Curso de a&eacute;reos (todos los niveles): <a href="images/tallerdobles.jpg">Yolanda Guti&eacute;rrez</a> (Capic&uacute;a Circ) y <a href="images/tallertrape.pdf">Oriol Escursell</a></b><br> 
-                                        11-13:00 horas, Sala de entrenamiento general<br>
-                                        Webs: <a href="http://www.capicuacirc.com">Capicua</a>, <a href="http://www.suitcircus.com">Suitcase Circus</a>, <a href="https://vimeo.com/user21859494">Oriol en Vimeo</a><br><br>
-                                        <b>Swing de mazas (iniciaci&oacute;n): Irene</b><br>
-                                        11-12:00 horas, Sala tatami<br><br>
-                                        <b>Bast&oacute;n de contact (simples o dobles, iniciaci&oacute;n/medio): Bo</b><br> 
-                                        11-13:00 horas, Sala grande sin tatami<br><br> 
-                                        <b>M&aacute;stil chino, Belu</b><br>
-                                        13-15:00 horas, Zona de gala<br><br>
+                                        <b>Siteswap / Pr&eacute;chac: Adri&aacute;n Plaza</b></br> 
+                                        Horario: 11:30-13:30 horas, nivel inciacici&oacute;n / intermedio, en el pabell&oacute;n <br></br>
+                                        
+                                        <b>Iniciaci&oacute;n a la magia: Clinic Clown</b><br>
+                                        Horario: 12:00 horas, nivel iniciaci&oacute;n en el pabell&oacute<br><br>
+					<h3>S&aacute;bado tarde</h3>
+                                        
+													<b>Psicolog&iacute;a aplicada a la docencia en el circo: Irene </b><br> 
+                                        Horario 15:30- 17:00 horas, en el Espacio Joven <br><br> 
+                                                                                
+                                        <b>Di&aacute;bolo: Mat&iacute;as Borsani</b><br> 
+                                        Horario 16:30-18:30 horas, nivel iniciaci&oacute;n / Intermedio, en el Espacio Joven <br><br> 
+                                        
+                                        <b>Cuerda A&eacute;rea: Fernando</b><br>
+                                        Horario: 16:30-18:30 horas, nivel iniciaci&oacute;n / Intermedio, en el pabell&oacute;n  <br><br>
+                                        <!--
+                                        
                                         <b>Malabares: Jorge</b><br>
                                         16:30-18:30 horas, Espacio de entrenamiento/calentamiento<br><br>
                                         <b>Cuerda floja (adaptable en funci&oacute;n del alumnado): Irene</b><br>
@@ -99,18 +114,15 @@
                                         16:30-19:30 horas, Sala tatami<br>
                                         Web: <a href="http://www.ciacirteani.com/">Cia. Cirteani</a><br><br>
 
-
+-->
                                         <h2>M&aacute;s talleres</h2>
 
                                         <p>Si alguna persona est&#225; interesada en impartir un taller, seminario, master class, etc. sobre alguna materia relacionada con el circo (o no), puede escribirnos a la direcci&#243;n malabaristaszgz@gmail.com y se le asignar&#225; una hora y un espacio determinados adem&#225;s de un regalo que seguro ser&#225; bien recibido. Animaros pronto ya que no hay tantas horas y lugares como quisi&#233;ramos.</p>
-                                        <br>
-                                        <img src="images/talleres1.jpg" width="440px" alt=""/>
-                                        <br>
+                                     
 					<br class="clear" />
 				</div>
 			</div>
--->                        
-                        <center div id="main">
+   	                  <center div id="main">
 				<div id="content">
 					<div id="box1">
 						<!-- Primary Wide Blog Post 3 -->
