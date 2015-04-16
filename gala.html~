@@ -42,6 +42,10 @@
 						<li>
 							<a href="comollegar.html">C&#243;mo llegar</a>
 						</li>
+						<li>
+							<a href="volley.html">Volley</a>
+						</li>
+
 						<li class="last">
 							<a href="contacto.html">Contacto</a>
 						</li>
@@ -85,7 +89,7 @@
                                                             <a href="julieta.html"><img class="center" src="images/julieta/julieta.jpg" width="420" alt="" /><h2>Julieta</h2></a>
                                                         </li>
                                                         <li class="first">
-                                                            <a href="jean.html"><img class="center" src="images/jean/jean2.jpg" width="420" alt="" /><h2>Alodey&aacute;</h2></a>
+                                                            <a href="jean.html"><img class="center" src="images/jean/jean2.jpg" width="420" alt="" /><h2>Jean Philippe Kikolas</h2></a>
 																			</li>                			                                                                                                
 																		<li class="first">
                                                             <a href="alodeya.html"><img class="center" src="images/alodeya/alodeya1.jpg" width="420" alt="" /><h2>Alodey&aacute;</h2></a>
