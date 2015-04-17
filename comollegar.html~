@@ -39,13 +39,13 @@
 						<li>
 							<a href="talleres.html">Talleres</a>
 						</li>
+						<li class="first active">
+							<a href="comollegar.html">C&#243;mo llegar</a>
+						</li>
 						<li>
 							<a href="volley.html">Volley</a>
 						</li>
 						
-						<li class="first active">
-							<a href="comollegar.html">C&#243;mo llegar</a>
-						</li>
 						<li class="last">
 							<a href="contacto.html">Contacto</a>
 						</li>
